@@ -1,6 +1,5 @@
-# Classifying Traffic Signs Using Machine Learning Models
+## Classifying Traffic Signs Using Machine Learning Models
 
-[![Presentation](https://www.canva.com/design/DAF4upiTvpw/SWamdDo89mXf_cf0QaMeRg/edit?utm_content=DAF4upiTvpw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://www.canva.com/design/DAF4upiTvpw/SWamdDo89mXf_cf0QaMeRg/edit?utm_content=DAF4upiTvpw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Introduction
 
@@ -22,3 +21,8 @@ Each algorithm was selected for specific reasons, contributing to our understand
 While many turn to deep learning for such projects, we chose to explore traditional machine learning methods. By doing so, we aimed to demonstrate that excellent results can still be achieved using simpler, more interpretable techniques.
 
 In this article, we share our journey, discussing the experiences and challenges we faced. Most importantly, we reveal the outcomes of using various machine learning methods for recognizing traffic signs. Join us as we explore the intersection of technology and transportation, working towards smarter and safer roads.
+
+
+## Presentation
+
+For a detailed overview of the project, please view our [Canva Presentation](https://www.canva.com/design/DAF4upiTvpw/SWamdDo89mXf_cf0QaMeRg/edit?utm_content=DAF4upiTvpw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
